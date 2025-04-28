@@ -49,7 +49,7 @@ a{
 .box__left{
     width: 50%;
     height: 100vh;
-    background-image: url(/images/Image.png);
+    background-image: url(../images/Image.png);
     /* background-position: center; */
     background-repeat: no-repeat;
     background-size: cover;
@@ -209,7 +209,7 @@ a{
 
 }
 .password{
-    background-image: url(/images/Vector.svg);
+    background-image: url(../images/Vector.svg);
     background-repeat: no-repeat;
     background-position: 37rem ;
 }
@@ -289,7 +289,7 @@ a{
 
     }
     .password{
-        background-image: url(/images/Vector.svg);
+        background-image: url(../images/Vector.svg);
         background-repeat: no-repeat;
         background-position: 18rem ;
     }
@@ -374,7 +374,7 @@ input{
 
 }
 .password{
-    background-image: url(/images/Vector.svg);
+    background-image: url(../images/Vector.svg);
     background-repeat: no-repeat;
     background-position: 30rem ;
 }
